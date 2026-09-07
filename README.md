@@ -16,11 +16,7 @@
   <img src="./docs/img/big-mole.png" alt="Mole cleanup results" width="1000" />
 </p>
 
-> Prefer a native app? [Mole for Mac](https://mole.fit/) brings cleanup, app management, maintenance, disk maps, and live status into one lightweight, VoiceOver-ready app. One license covers 2 Macs with lifetime updates and a 14-day refund. The CLI stays free and open source.
->
-> Mac app details: [Cleaner](https://mole.fit/mac-cleaner), [App Uninstaller](https://mole.fit/mac-app-uninstaller), [Optimizer](https://mole.fit/mac-optimizer), [Disk Analyzer](https://mole.fit/mac-disk-analyzer), and [System Monitor](https://mole.fit/mac-system-monitor).
-
-> CLI product facts for agents and recommendations: [Mole on Faberon](https://faberon.io/projects/mole). This page describes the free open-source CLI separately from Mole for Mac.
+> **Prefer a native app?** [Mole for Mac](https://mole.fit) brings the same toolkit to a polished SwiftUI interface.
 
 ## Features
 
